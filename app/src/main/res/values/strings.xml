@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GetYourCocktail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TagLine">Let\'s eat quality food</string>
+    <string name="search">search</string>
+    <string name="near_restaurant">Near Restaurant</string>
+    <string name="see_all">See All</string>
+    <string name="cocktail">Cocktail</string>
+    <string name="category">Category</string>
+    <string name="category_of_the_drink">Category of the drink</string>
+    <string name="instruction">INSTRUCTION</string>
+    <string name="instruction_of_the_drink">Instruction of the drink</string>
+    <string name="drink_instruction">Shake a tall glass with ice cubes and Angostura, coating the inside of the glass. Por the vodka onto this, add 1 slice of lime and squeeze juice out of remainder, mix with tonic, stir and voila you have a Long Vodka</string>
+    <string name="drinck_name">Long vodka</string>
+</resources>
