@@ -1,6 +1,8 @@
----
+
 Cocktail Explorer App : GetYourCockTail
----
+========================================
+
+
 ### Welcome to Cocktail Explorer, an Android app designed to help you discover and explore a variety of cocktails based on your preferences. This app follows the MVVM (Model-View-ViewModel) design pattern, ensuring a clean and modular architecture.
 
 ## Features
@@ -44,7 +46,7 @@ The app utilizes the Cocktail DB API to fetch cocktail data.
 
 ## Contact
 
-For any clarifications or assistance, please reach out to Ravi at vaibhavjadhao010@gmail.com.
+For any clarifications or assistance, please reach out to me at vaibhavjadhao010@gmail.com.
 
 ## Code Quality
 
