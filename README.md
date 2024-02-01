@@ -11,8 +11,11 @@ Static UI Elements: Some UI elements, such as "Let's eat quality food," "Near re
 ## Screenshots
 
 [MainScreen ](https://github.com/vjadhao04/GetYourCocktail/blob/master/Screenshot_20240202_012953.png)
+
 [DetailsScreen](https://github.com/vjadhao04/GetYourCocktail/blob/master/Screenshot_20240202_013020.png)
+
 [NoInternetScreen](https://github.com/vjadhao04/GetYourCocktail/blob/master/Screenshot_20240202_013052.png)
+
 ## Getting Started
 Prerequisites
 Ensure you have Android Studio installed.
